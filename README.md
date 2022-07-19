@@ -1,2 +1,1 @@
-# Python CNF Solver
- 
+# AI-Sat-Solving
