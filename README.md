@@ -13,7 +13,7 @@ following sections we will be giving a background to
 our project before going into our planning and
 execution.
 
-## [To read more about the project please read the report on our findings](https://github.com/Aivaras7/Python-CNF-Solver/blob/main/report.pdf)
+#### [To read more about the project please read the report on our findings](https://github.com/Aivaras7/Python-CNF-Solver/blob/main/report.pdf)
 
 
 
